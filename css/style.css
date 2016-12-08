@@ -1,0 +1,51 @@
+table {
+    border: 4px double #e5e5e5;
+}
+td, th {
+    border: 1px solid #fff;
+}
+td {
+    background: #f3f1ee;
+}
+.white {
+    background: #f3f1ee;
+}
+.red-my {
+    display: block;
+    width: 56px;
+    height: 56px;
+    background: #d04f7f;
+}
+.blue-my {
+    display: block;
+    width: 56px;
+    height: 56px;
+    background: #4f77d0;
+}
+.grey-true {
+    display: block;
+    width: 56px;
+    height: 56px;
+    background: #f1efec;
+}
+.smalt {
+    width: 68px;
+    height: 68px;
+    padding: 5px;
+    font-size: 10px;
+    /*background: #f3f1ee;*/
+    background: rgba(226, 226, 226, 0.56);
+}
+.board {
+    float:left;
+    padding:20px;
+}
+.button-admin {
+    float:left;
+    display: inline-block;
+    padding: 20px;
+}
+.tech-inf {
+    float:right;
+    padding: 20px;
+}

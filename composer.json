@@ -1,0 +1,21 @@
+{
+  "name": "vendor/game",
+  "description": "Reversi game",
+  "type": "Application",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kosiuk Serhii",
+      "email": "monstrpro@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "Core"
+    }
+  },
+  "require": {
+    "php": ">=5.6.0",
+    "twig/twig": "1.*"
+  }
+}
