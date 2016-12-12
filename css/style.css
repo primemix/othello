@@ -11,13 +11,15 @@ td {
     background: #f3f1ee;
 }
 .red-my {
-    display: block;
+    /*display: block;*/
+    text-align: center;
     width: 56px;
     height: 56px;
     background: #d04f7f;
 }
 .blue-my {
-    display: block;
+    /*display: block;*/
+    text-align: center;
     width: 56px;
     height: 56px;
     background: #4f77d0;
@@ -44,6 +46,13 @@ td {
     float:left;
     display: inline-block;
     padding: 20px;
+}
+.player {
+    text-align: center;
+}
+.score {
+    padding-top: 2px;
+    text-align: center;
 }
 .tech-inf {
     float:right;
